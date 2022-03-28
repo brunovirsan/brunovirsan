@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+## Skills
+  - 👨‍💻 TypeScript, JavaScript, PHP, C
+  - ⚙️ React, Svelte, Vue
+  - 👁️ SASS, CSS, Stylus
+  - 💽 MySQL, SQL, Mongo
   
 [![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
 [![Linkedin: brunovirsan](https://img.shields.io/badge/-brunovirsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovirsan/)](https://www.linkedin.com/in/brunovirsan/)
