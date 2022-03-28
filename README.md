@@ -1,4 +1,4 @@
-<h2> Hi, <img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name-style.svg" padding:0 alt="Bruno Santos" />! <img class="slick-slide" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="25"></h2>
+<h2> Hi, <img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name-style.svg" alt="Bruno Santos" />! <img class="slick-slide" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="25"></h2>
 
 
 - 👀 I’m interested in ...
