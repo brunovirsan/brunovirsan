@@ -1,6 +1,8 @@
-<h1> <img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name-style.svg" alt="Bruno Santos" /> [![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
+<h1> <img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name-style.svg" alt="Bruno Santos" />  </h1>
+
+[![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
 [![Linkedin: brunovirsan](https://img.shields.io/badge/-brunovirsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovirsan/)](https://www.linkedin.com/in/brunovirsan/)
-[![GitHub Bruno Santos](https://img.shields.io/github/followers/brunovirsan?style=social)](https://github.com/brunovirsan) </h1>
+[![GitHub Bruno Santos](https://img.shields.io/github/followers/brunovirsan?style=social)](https://github.com/brunovirsan)
 
 
 
