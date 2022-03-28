@@ -7,7 +7,7 @@
 
 
 - 👀 I'm interested in learning new skills. Looking for new opportunities as in the market as a junior developer.
-- 🌱 I’m currently learning ...
+- 🌱 I'm currently learning Javascript, Node.js, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 f
@@ -18,7 +18,7 @@ f
   - 👁️ SASS, CSS
   - 💽 MySQL, SQL, Mongo
 
-<h3>Social Media</h3>
+<h3>📫 Social networks</h3>
 
 [![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
 [![Linkedin: brunovirsan](https://img.shields.io/badge/-brunovirsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovirsan/)](https://www.linkedin.com/in/brunovirsan/)
