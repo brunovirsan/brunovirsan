@@ -21,9 +21,10 @@
 [![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
 [![Linkedin: brunovirsan](https://img.shields.io/badge/-brunovirsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovirsan/)](https://www.linkedin.com/in/brunovirsan/)
 [![GitHub Bruno Santos](https://img.shields.io/github/followers/brunovirsan?style=social)](https://github.com/brunovirsan)
-  
 
-<h3>📫 My best projects</h3>
+
+
+<h3<img class="slick-slide" src="https://media.giphy.com/media/3bb5jcIADH9ewHnpl9/giphy.gif" width="25"> My best projects</h3>
 <!---
 brunovirsan/brunovirsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
