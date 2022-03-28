@@ -9,8 +9,7 @@
 - 👀 I'm interested in learning new skills. Looking for new opportunities as in the market as a junior developer.
 - 🌱 I'm currently learning Javascript, Node.js, MongoDB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-f
+
 <h3> <img class="slick-slide" src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="25"> Skills</h3>
 
   - 👨‍💻 JavaScript, C++
