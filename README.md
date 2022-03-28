@@ -1,5 +1,5 @@
 <h2> Hi, I'm Bruno Santos! <img class="slick-slide" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="25"></h2>
-<img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name.svg" alt="Bruno Santos" />
+<img src="https://raw.githubusercontent.com/brunovirsan/brunovirsan/master/name-style.svg" alt="Bruno Santos" />
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
