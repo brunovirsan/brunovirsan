@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 f
-<h3> <img class="slick-slide" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="25"> Skills</h3>
+<h3> <img class="slick-slide" src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="25"> Skills</h3>
 
   - 👨‍💻 TypeScript, JavaScript, PHP, C
   - ⚙️ React, Svelte, Vue
