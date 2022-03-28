@@ -1,4 +1,4 @@
-  <h2> Hi, I'm Bruno Santos! <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="50"></h2>
+  <h2> Hi, I'm Bruno Santos! <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="25"></h2>
   <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 👋 Hi, I’m @brunovirsan
