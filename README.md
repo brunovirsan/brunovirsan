@@ -14,13 +14,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Skills
+<h3>Skills</h3>
   - 👨‍💻 TypeScript, JavaScript, PHP, C
   - ⚙️ React, Svelte, Vue
   - 👁️ SASS, CSS, Stylus
   - 💽 MySQL, SQL, Mongo
 
-## Social Media
+<h3>Social Media</h3>
 [![Twitter: brunovirsan](https://img.shields.io/twitter/follow/brunovirsan?style=social)](https://twitter.com/brunovirsan)
 [![Linkedin: brunovirsan](https://img.shields.io/badge/-brunovirsan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovirsan/)](https://www.linkedin.com/in/brunovirsan/)
 [![GitHub Bruno Santos](https://img.shields.io/github/followers/brunovirsan?style=social)](https://github.com/brunovirsan)
