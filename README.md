@@ -3,7 +3,7 @@
 
 
 
-<h3><img class="slick-slide" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e478zddwn4auhpy0he00dek33a6ei3wpzie8lecayzv&rid=giphy.gif" width="25"> Hi, i'm Bruno Santos!</h3>
+<h3><img class="slick-slide" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25"> Hi, i'm Bruno Santos!</h3>
 
 
 - 👀 I’m interested in ...
