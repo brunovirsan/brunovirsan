@@ -15,6 +15,7 @@
 - 📫 How to reach me ...
 
 <h3>Skills</h3>
+
   - 👨‍💻 TypeScript, JavaScript, PHP, C
   - ⚙️ React, Svelte, Vue
   - 👁️ SASS, CSS, Stylus
