@@ -24,7 +24,7 @@
 
 
 
-<h3><img class="slick-slide" src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width="25"> My best projects</h3>
+<h3><img class="slick-slide" src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width="25"> My projects</h3>
 <!---
 brunovirsan/brunovirsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
