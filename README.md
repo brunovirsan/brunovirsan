@@ -3,7 +3,6 @@
 <div align="">
     <a href="https://github.com/brunovirsan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunovirsan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovirsan&layout=compact&langs_count=1&theme=dracula"/>
  </div>
 
 <h3><img class="slick-slide" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25"> Hi, i'm Bruno Santos!</h3>
