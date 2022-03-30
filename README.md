@@ -28,7 +28,7 @@
 
 <h3><img class="slick-slide" src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width="25"> My projects</h3>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?brunovirsan=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunovirsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 brunovirsan/brunovirsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
