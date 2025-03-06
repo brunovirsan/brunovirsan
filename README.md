@@ -8,15 +8,15 @@
 <h3><img class="slick-slide" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25"> Hi, i'm Bruno Santos!</h3>
 
 
-- 👀 I'm interested in learning new skills. Looking for new opportunities as in the market as a junior developer.
-- 🌱 I'm currently learning Javascript, Node.js, MongoDB
+- 👀 I'm interested in learning new skills.
+- 🌱 I'm currently learning TDD
 
 <h3> <img class="slick-slide" src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="25"> Skills</h3>
 
-  - 👨‍💻 JavaScript, C++
-  - ⚙️ React
-  - 👁️ SASS, CSS
-  - 💽 MySQL, SQL, Mongo
+  - 👨‍💻 Java 8+, JavaScript/Typescript
+  - 👨‍💻 Spring Boot and Nest
+  - 👁️ Angular or React
+  - 💽 MySQL, SQLServer & MongoDB/NoSql
 
 <h3>📫 Social networks</h3>
 
